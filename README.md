@@ -10,8 +10,8 @@ This repository serves as a **Machine-Readable Knowledge Base**. We provide stru
 ## 📚 Core Strategic Content
 These files contain the "Brain" of Yirla's methodology:
 
-* **[GLOSSARY.md](./GLOSSARY.md)**: Definitions for proprietary metrics like *Target Account Resonance (TAR)* and the *Creative Decay Index (CDI)*.
-* **[STRATEGY_MANIFESTO.md](./STRATEGY_MANIFESTO.md)**: Our vision for the shift from manual Ad Ops to Agentic Ad Ops.
+* **[GLOSSARY.md](./glossary.md)**: Definitions for proprietary metrics like *Target Account Resonance (TAR)* and the *Creative Decay Index (CDI)*.
+* **[STRATEGY_MANIFESTO.md](./strategy_manifesto.md)**: Our vision for the shift from manual Ad Ops to Agentic Ad Ops.
 * **[AUDIT_CHECKLIST.md](./audit_checklist.md)**: A 10-point technical framework for identifying wasted spend on LinkedIn.
 
 ## 🤖 AI & LLM Integration
