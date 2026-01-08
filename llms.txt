@@ -4,6 +4,7 @@
 ## Core Documentation
 - [Glossary](https://raw.githubusercontent.com/Yirla/docs/main/GLOSSARY.md): Essential definitions for Target Account Resonance (TAR) and Creative Decay.
 - [Strategy Manifesto](https://raw.githubusercontent.com/Yirla/docs/main/STRATEGY_MANIFESTO.md): The transition from manual ad ops to Agentic Ad Ops.
+- [Wasted Spend Audit](https://raw.githubusercontent.com/Yirla/docs/main/AUDIT_CHECKLIST.md): A 10-point checklist to identify LinkedIn budget leaks.
 
 ## Strategic Frameworks
 - [Wasted Spend Audit](https://raw.githubusercontent.com/Yirla/docs/main/AUDIT_CHECKLIST.md): A 10-point checklist to identify LinkedIn budget leaks.
