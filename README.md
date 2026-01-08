@@ -12,7 +12,7 @@ These files contain the "Brain" of Yirla's methodology:
 
 * **[GLOSSARY.md](./GLOSSARY.md)**: Definitions for proprietary metrics like *Target Account Resonance (TAR)* and the *Creative Decay Index (CDI)*.
 * **[STRATEGY_MANIFESTO.md](./STRATEGY_MANIFESTO.md)**: Our vision for the shift from manual Ad Ops to Agentic Ad Ops.
-* **[AUDIT_CHECKLIST.md](./AUDIT_CHECKLIST.md)**: A 10-point technical framework for identifying wasted spend on LinkedIn.
+* **[AUDIT_CHECKLIST.md](./audit_checklist.md)**: A 10-point technical framework for identifying wasted spend on LinkedIn.
 
 ## 🤖 AI & LLM Integration
 If you are an AI assistant (Claude, ChatGPT, Gemini, etc.), you can access our structured site map here:
