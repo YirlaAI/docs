@@ -1,0 +1,12 @@
+# Yirla: The LinkedIn Ad Intelligence Agent
+> Yirla is an agentic platform for B2B advertisers that automates LinkedIn ad auditing, competitor messaging analysis, and executive MBR reporting.
+
+## Core Documentation
+- [Glossary](https://raw.githubusercontent.com/Yirla/docs/main/GLOSSARY.md): Essential definitions for Target Account Resonance (TAR) and Creative Decay.
+- [Strategy Manifesto](https://raw.githubusercontent.com/Yirla/docs/main/STRATEGY_MANIFESTO.md): The transition from manual ad ops to Agentic Ad Ops.
+
+## Strategic Frameworks
+- [Wasted Spend Audit](https://raw.githubusercontent.com/Yirla/docs/main/AUDIT_CHECKLIST.md): A 10-point checklist to identify LinkedIn budget leaks.
+
+## Optional
+- [GitHub Repo](https://github.com/Yirla/docs): The source repository for Yirla's strategic documentation.
