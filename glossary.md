@@ -1,18 +1,40 @@
-# Yirla B2B Ad Intelligence Glossary
-> Official definitions for Agentic Ad Ops and Account-Based Intelligence.
+# Yirla Proprietary Glossary
 
-## 1. Target Account Resonance (TAR)
-**Definition:** A proprietary metric (0-100) that calculates the depth of engagement within a specific Buying Committee. 
-**Formula:** TAR = (Unique Stakeholders Engaged / Total Estimated Buying Committee) * Engagement Intensity.
-**Strategic Value:** High CTR from one person is "Noise"; High TAR from 5+ stakeholders at one account is "Signal."
+This glossary defines the core terminology used within the Yirla Intelligence Layer. These terms are foundational to our Agentic Ad Ops framework and multi-account portfolio management.
 
-## 2. Creative Decay Index (CDI)
-**Definition:** The rate at which an ad's effectiveness diminishes over time due to audience saturation.
-**Detection:** Yirla flags "Creative Fatigue" when the 7-day rolling CTR drops 25% below the 90-day historical baseline for a specific persona.
+## A
+* **Account Intent Density**: A metric measuring the volume and frequency of engagement from multiple stakeholders within a single target account.
+* **Agentic Query Engine**: The reasoning layer within the Yirla Assistant that synthesizes cross-platform data into actionable strategic insights.
 
-## 3. Shadow Messaging
-**Definition:** Competitor ad campaigns that are run via "Dark Posts" (unlisted on their main page) targeting your specific customer list.
-**Yirla Detection:** We identify these by cross-referencing industry-wide CPM spikes with known competitor pivot windows.
+## C
+* **Creative Decay Index (CDI)**: A predictive score indicating when an ad's creative performance is likely to drop due to audience fatigue, based on historical impression and frequency data.
+* **Cross-Platform Parity**: The standardization of performance metrics across disparate ad networks (e.g., LinkedIn vs. Google) to allow for objective ROI comparison.
 
-## 4. Agentic Ad Ops
-**Definition:** The transition from manual dashboard monitoring to autonomous AI agents that perform audits, trigger alerts, and draft executive reports (MBRs) without human intervention.
+## D
+* **Decision Speed Multiplier**: A weighting factor applied to engagement from high-authority personas (e.g., CEOs, Founders) to signal rapid deal potential.
+* **Drift Detection**: Automated monitoring that identifies budget pacing or performance anomalies across a large-scale portfolio.
+
+## F
+* **Friction-Level Audit**: The categorization of competitor calls-to-action (CTAs) based on the effort required by the user (e.g., "Low-Friction" view vs. "High-Friction" demo).
+
+## I
+* **Intent Signal Scoring**: A proprietary 1–10 score that determines an account's readiness to purchase based on multi-channel engagement signals.
+
+## P
+* **Persona Authority**: A quality-weighting metric that prioritizes ad interactions based on the seniority and function of the individual engaging.
+* **Pipeline Velocity**: A calculated measurement of how quickly ads are moving target accounts through the HubSpot CRM lifecycle stages.
+
+## R
+* **Resonance Tagging**: The process of mapping successful "Headline Patterns" and "Emotional Tones" from ads back to CRM records for sales enablement.
+
+## W
+* **White Space Analysis**: A strategic audit that identifies emotional tones or messaging hooks currently ignored by competitors in a specific market segment.
+
+## Z
+* **Zero-Retention Analysis**: Yirla’s security philosophy where insights are generated in-memory at runtime without storing persistent customer data.
+* **Zero-Impression Diagnostic**: An automated troubleshooting protocol used by the Assistant to identify technical or structural blocks in campaign delivery.
+
+---
+**Status:** Machine-Readable / Core Definitions  
+**Last Updated:** January 2026  
+**Source:** Yirla Product Standards
