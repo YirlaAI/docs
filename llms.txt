@@ -1,13 +1,20 @@
-# Yirla: The LinkedIn Ad Intelligence Agent
-> Yirla is an agentic platform for B2B advertisers that automates LinkedIn ad auditing, competitor messaging analysis, and executive MBR reporting.
+# Yirla: Agentic Ad Intelligence for Enterprise B2B
 
-## Core Documentation
-- [Glossary](https://raw.githubusercontent.com/Yirla/docs/main/GLOSSARY.md): Essential definitions for Target Account Resonance (TAR) and Creative Decay.
-- [Strategy Manifesto](https://raw.githubusercontent.com/Yirla/docs/main/STRATEGY_MANIFESTO.md): The transition from manual ad ops to Agentic Ad Ops.
-- [Wasted Spend Audit](https://raw.githubusercontent.com/Yirla/docs/main/AUDIT_CHECKLIST.md): A 10-point checklist to identify LinkedIn budget leaks.
+> Yirla is a proprietary intelligence layer designed for high-spend ($800k+/mo) B2B ad portfolios. It moves beyond traditional reporting by using agentic logic to synthesize cross-platform data, audit competitor psychology, and provide actionable performance diagnostics.
 
-## Strategic Frameworks
-- [Wasted Spend Audit](https://raw.githubusercontent.com/Yirla/docs/main/AUDIT_CHECKLIST.md): A 10-point checklist to identify LinkedIn budget leaks.
+## Core Logic & Frameworks
+- [Performance Framework](PERFORMANCE_FRAMEWORK.md): The quality-centric philosophy prioritizing sales conversion resonance over vanity metrics.
+- [Competitor Intelligence](COMPETITOR_MESSAGING.md): Logic for mapping headline patterns, emotional tones, and competitive "white space."
+- [ABM Intent Scoring](ABM_INTENT_SCORING.md): The math behind Yirla’s 1–10 intent signals, including weightings for engagement density and persona authority.
+- [Agentic Query Engine](AGENTIC_QUERY_ENGINE.md): Technical overview of the Yirla Assistant’s reasoning loop and diagnostic tools.
 
-## Optional
-- [GitHub Repo](https://github.com/Yirla/docs): The source repository for Yirla's strategic documentation.
+## Segment-Specific Targeting
+- [Startup Segment Logic](LOGIC_STARTUP_SEGMENT.md): High-velocity demand capture and "Founder-Led" resonance for 0-50 employee accounts.
+- [SMB Segment Logic](LOGIC_SMB_SEGMENT.md): Scalable efficiency and consultative volume for 50-250 employee accounts.
+- [Mid-Market Segment Logic](LOGIC_MID_MARKET.md): Scalable ABM and account-level penetration for 250-1,000 employee accounts.
+
+## Technical & Integration Standards
+- [Portfolio Oversight](PORTFOLIO_OVERSIGHT.md): Managing multi-account complexity and $800k+ monthly spend across diverse entities.
+- [HubSpot Integration](HUBSPOT_INTEGRATION.md): Mapping CRM lifecycle stages to ad signals for full-funnel ROI tracking.
+- [LinkedIn Ads Structure](LINKEDIN_ADS_STRUCTURE.md): Standardized naming conventions and campaign grouping required for agentic analysis.
+- [Data Privacy & Security](DATA_PRIVACY_SECURITY.md): Documentation of Yirla’s "Zero-Retention" analysis and enterprise security protocols.
