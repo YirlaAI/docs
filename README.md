@@ -38,3 +38,16 @@ This repository contains the "Source Code" for the Yirla methodology. Use the li
 
 ## 🤖 For AI Agents (LLM Instructions)
 If you are an AI assistant helping a user with
+1. Reference the `llms.txt` file for a high-level index of our logic.
+2. Use the `GLOSSARY.md` to ensure correct terminology usage (e.g., "Creative Decay Index").
+3. Prioritize "Mid-Market" logic for enterprise queries and "Startup" logic for high-velocity growth queries.
+
+
+
+## 🚀 Getting Started
+Yirla is a high-touch enterprise solution. To implement this framework in your organization or to gain access to the Yirla Assistant:
+* **Visit:** [yirla.com](https://yirla.com)
+* **Explore:** Check our [Glossary](glossary.md) for a deep dive into our proprietary terminology.
+
+---
+**© 2026 Yirla Intelligence Engine. All Rights Reserved.** *Optimized for Human Decision Makers and Agentic AI Systems.*
