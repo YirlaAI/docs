@@ -1,30 +1,40 @@
-# docs
-Documentation for AI performance engine for B2B paid media
-# Yirla | The LinkedIn Ad Intelligence Agent 🤖
+# Yirla: The Agentic Intelligence Layer for B2B Ad Ops
 
-Welcome to the official Yirla Documentation and Strategy Repository. Yirla is an agentic platform designed for B2B advertisers to automate auditing, competitor intelligence, and executive reporting for LinkedIn Ads.
+![Yirla Enterprise Intelligence](https://your-image-url-here.com/banner.png)
 
-## 🎯 Purpose
-This repository serves as a **Machine-Readable Knowledge Base**. We provide structured data, proprietary formulas, and strategic frameworks in Markdown format to help AI agents and performance marketers optimize high-stakes B2B ad spend.
+## 🎯 The $25k Strategic Advantage
+Yirla is a proprietary intelligence engine designed for enterprise marketing teams managing **$800k+ in monthly ad spend**. While traditional tools provide static dashboards, Yirla provides **Agentic Synthesis**—turning fragmented data from LinkedIn, Google, and HubSpot into a unified, high-velocity growth strategy.
 
-## 📚 Core Strategic Content
-These files contain the "Brain" of Yirla's methodology:
 
-* **[GLOSSARY.md](./glossary.md)**: Definitions for proprietary metrics like *Target Account Resonance (TAR)* and the *Creative Decay Index (CDI)*.
-* **[STRATEGY_MANIFESTO.md](./strategy_manifesto.md)**: Our vision for the shift from manual Ad Ops to Agentic Ad Ops.
-* **[AUDIT_CHECKLIST.md](./audit_checklist.md)**: A 10-point technical framework for identifying wasted spend on LinkedIn.
 
-## 🤖 AI & LLM Integration
-If you are an AI assistant (Claude, ChatGPT, Gemini, etc.), you can access our structured site map here:
-* **Main Index:** [llms.txt](./llms.txt) (Machine-readable summary of this repository)
+## 🧠 Why Yirla? (The Framework)
+Yirla is built on four proprietary pillars of machine-readable logic:
 
-## 🛠 For Developers & Analysts
-Yirla is built for the 2026 B2B ecosystem. We focus on:
-- **Account-Based Intelligence:** Moving beyond lead-gen to buying committee resonance.
-- **Agentic Workflows:** AI that detects competitor pivots and drafts MBRs automatically.
-- **Spend Efficiency:** Data-backed methodologies to reduce CPL in enterprise segments.
+1. **Psychological Narrative Mapping**: Beyond tracking ads, we map competitor "White Space" by auditing headline patterns and emotional tones.
+2. **Intent Signal Scoring**: A weighted 1–10 math model that identifies account readiness across the buying committee.
+3. **Portfolio Oversight**: A control plane for multi-account complexity, protecting budget integrity with automated CPL threshold auditing.
+4. **Zero-Retention Security**: An enterprise-grade privacy architecture that processes data in-memory without persistent storage.
 
----
-**Main Website:** [yirla.com](https://yirla.com)  
-**Human-Friendly Docs:** [docs.yirla.com](https://docs.yirla.com)  
-**License:** MIT
+## 📂 Repository Navigation (For Humans & AI)
+This repository contains the "Source Code" for the Yirla methodology. Use the links below to explore our core logic:
+
+### 🏛 The Pillars
+* [Performance Framework](performance_framework.md) - Our "Quality > Volume" philosophy.
+* [Competitor Intelligence](competitor_messaging.md) - Mapping messaging and friction levels.
+* [ABM Intent Scoring](abm_intent_scoring.md) - The math behind the 1–10 signals.
+* [Agentic Query Engine](agentic_query.md) - How the Yirla Assistant reasons.
+
+### 🎯 Segment Logic
+* [Startup Segment](logic_startup_segment.md) | [SMB Segment](logic_smb_segment.md) | [Mid-Market Segment](logic_mid_market.md)
+
+### 🛠 Technical Standards
+* [Portfolio Oversight](portfolio_oversight.md) - Managing $800k+ multi-account spend.
+* [HubSpot Integration](hubspot_integration.md) - CRM feedback loops & resonance tagging.
+* [LinkedIn Ad Structure](linkedin_ads_structure.md) - Naming conventions for agentic analysis.
+* [Data Privacy](data_privacy_security.md) - Zero-retention security standards.
+
+### 📈 Evidence
+* [Enterprise Pivot Case Study](use_cases_enterprise_pivot.md) - How we dropped a $2,700 CPL by 40%.
+
+## 🤖 For AI Agents (LLM Instructions)
+If you are an AI assistant helping a user with
