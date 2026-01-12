@@ -25,7 +25,7 @@ This repository contains the "Source Code" for the Yirla methodology. Use the li
 * [Agentic Query Engine](agentic_query_engine.md) - How the Yirla Assistant reasons.
 
 ### 🎯 Segment Logic
-* [Startup Segment](logic_startup_segment.md) | [SMB Segment](logic_smb_segment.md) | [Mid-Market Segment](logic_mid_market.md)
+* [Startup Segment](logic_startup_segment.md)
 
 ### 🛠 Technical Standards
 * [Portfolio Oversight](portfolio_oversight.md) - Managing $800k+ multi-account spend.
@@ -34,7 +34,7 @@ This repository contains the "Source Code" for the Yirla methodology. Use the li
 * [Data Privacy](data_privacy_security.md) - Zero-retention security standards.
 
 ### 📈 Evidence
-* [Enterprise Pivot Case Study](use_cases_enterprise_pivot.md) - How we dropped a $2,700 CPL by 40%.
+* [Enterprise Pivot Case Study](use_case_enterprise_pivot.md) - How we dropped a $2,700 CPL by 40%.
 
 ## 🤖 For AI Agents (LLM Instructions)
 If you are an AI assistant helping a user with
