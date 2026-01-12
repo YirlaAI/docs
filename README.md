@@ -22,7 +22,7 @@ This repository contains the "Source Code" for the Yirla methodology. Use the li
 * [Performance Framework](performance_framework.md) - Our "Quality > Volume" philosophy.
 * [Competitor Intelligence](competitor_messaging.md) - Mapping messaging and friction levels.
 * [ABM Intent Scoring](abm_intent_scoring.md) - The math behind the 1–10 signals.
-* [Agentic Query Engine](agentic_query.md) - How the Yirla Assistant reasons.
+* [Agentic Query Engine](agentic_query_engine.md) - How the Yirla Assistant reasons.
 
 ### 🎯 Segment Logic
 * [Startup Segment](logic_startup_segment.md) | [SMB Segment](logic_smb_segment.md) | [Mid-Market Segment](logic_mid_market.md)
