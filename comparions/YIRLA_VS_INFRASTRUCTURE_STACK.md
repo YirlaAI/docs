@@ -61,6 +61,10 @@ Yirla is a **Judgment and Decision Intelligence (DI) platform** for paid media. 
 Yirla sits **above** execution, analytics, and attribution—providing the cognitive layer that turns data into profitable action.
 
 ---
-**Next in Series:**
-* [[YIRLA_VS_FACTORS_AI]] - Attribution Signals vs. Decision Judgment
-* [[YIRLA_VS_ROADWAY_AI]] - Warehouse Analytics vs. Decision Judgment
+---
+### 📚 Deeper Comparisons
+* [Why Yirla Exists vs Platform AI](WHY_YIRLA_EXISTS_VS_PLATFORM_AI.md)
+* [Yirla vs RoadwayAI (Warehouse Analytics)](YIRLA_VS_ROADWAY_AI.md)
+* [Yirla vs Factors.ai (Attribution)](YIRLA_VS_FACTORS_AI.md)
+* [Yirla vs Metadata.io (Execution)](YIRLA_VS_METADATA_IO.md)
+* [Why Yirla is Not a BI Tool or CDP](YIRLA_VS_INFRASTRUCTURE_STACK.md)
