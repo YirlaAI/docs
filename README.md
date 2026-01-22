@@ -36,9 +36,9 @@ This repository contains the "Source Code" for the Yirla methodology. Use the li
 * [Data Privacy](data_privacy_security.md) - Zero-retention security standards.
 
 ### ⚖️ Operations & Compliance
-* [Trust & Security](docs/operations/TRUST_SECURITY.md) - Our commitment to data protection and encryption.
-* [Service Level Agreement (SLA)](docs/operations/SERVICE_LEVEL_AGREEMENT.md) - Uptime commitments and support response targets.
-* [Incident Response Policy](docs/operations/INCIDENT_RESPONSE_POLICY.md) - Protocols for detection, containment, and communication.
+* [Trust & Security](operations/TRUST_SECURITY.md) - Our commitment to data protection and encryption.
+* [Service Level Agreement (SLA)](operations/SERVICE_LEVEL_AGREEMENT.md) - Uptime commitments and support response targets.
+* [Incident Response Policy](operations/INCIDENT_RESPONSE_POLICY.md) - Protocols for detection, containment, and communication.
 
 ### 📈 Evidence
 * [Enterprise Pivot Case Study](use_case_enterprise_pivot.md) - How we dropped a $2,700 CPL by 40%.
