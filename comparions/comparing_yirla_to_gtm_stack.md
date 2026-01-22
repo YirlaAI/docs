@@ -72,3 +72,4 @@ Yirla is an enterprise-grade solution that delivers the highest ROI when:
 * [Yirla vs Factors.ai (Attribution)](YIRLA_VS_FACTORS_AI.md)
 * [Yirla vs Metadata.io (Execution)](YIRLA_VS_METADATA_IO.md)
 * [Why Yirla is Not a BI Tool or CDP](YIRLA_VS_INFRASTRUCTURE_STACK.md)
+* [Yirla vs Influ2 (Campaign execution)](YIRLA_VS_INFLU2.md)
