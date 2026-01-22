@@ -61,6 +61,8 @@ Google and LinkedIn are exceptional **execution engines**. Yirla is the **intell
 
 ---
 **Next in Series:**
-* [[COMPARING_YIRLA_TO_GTM_STACK]] - The Parent Map
-* [[YIRLA_VS_ROADWAY_AI]] - Warehouse Analytics vs. Decision Judgment
-* [[YIRLA_VS_INFRASTRUCTURE_STACK]] - Why Yirla is not a BI Tool or CDP
+* [Why Yirla Exists vs Platform AI](WHY_YIRLA_EXISTS_VS_PLATFORM_AI.md)
+* [Yirla vs RoadwayAI (Warehouse Analytics)](YIRLA_VS_ROADWAY_AI.md)
+* [Yirla vs Factors.ai (Attribution)](YIRLA_VS_FACTORS_AI.md)
+* [Yirla vs Metadata.io (Execution)](YIRLA_VS_METADATA_IO.md)
+* [Why Yirla is Not a BI Tool or CDP](YIRLA_VS_INFRASTRUCTURE_STACK.md)
