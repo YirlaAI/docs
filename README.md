@@ -3,7 +3,7 @@
 ![Yirla Enterprise Intelligence](https://your-image-url-here.com/banner.png)
 
 ## 🎯 The $25k Strategic Advantage
-Yirla is a proprietary intelligence engine designed for enterprise marketing teams managing **$250k+ in monthly ad spend**. While traditional tools provide static dashboards, Yirla provides **Agentic Synthesis**—turning fragmented data from LinkedIn, Google, and HubSpot into a unified, high-velocity growth strategy.
+Yirla is a proprietary intelligence engine designed for enterprise marketing teams managing **$25k+ in monthly ad spend**. While traditional tools provide static dashboards, Yirla provides **Agentic Synthesis**—turning fragmented data from LinkedIn, Google, and HubSpot into a unified, high-velocity growth strategy.
 
 ---
 
